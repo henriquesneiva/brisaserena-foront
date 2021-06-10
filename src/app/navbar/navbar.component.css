@@ -1,0 +1,31 @@
+
+.bakcolor {
+
+    background-color: #FFD6DC;
+    
+    }
+    
+    .topicnav {
+        padding: 1rem;
+        margin-right: 2.1rem;
+        display: flex;
+        width: 20rem;
+        height: 1rem;
+        align-items: center;
+    }
+    
+    .topicnav a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    .listdiv {
+       padding-left: 1rem;
+    }
+    
+    .svg {
+    
+    width: 1rem;
+    height: 1rem;
+    
+    }

@@ -1,0 +1,55 @@
+.carrocelbotton {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 1rem;
+}
+
+.textcenter {
+    text-align: center;
+    padding: 1rem;
+    font-size: 3rem;
+}
+
+.cat {
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+}
+
+.cat img {
+    border-radius: 50%;
+}
+
+.intencat {
+    
+    width: 20rem;
+    padding: 2rem;
+}
+
+.produtos {
+    display: flex;
+    justify-content: center;
+}
+
+.prod {
+    padding: 2rem;
+    width: 20rem;
+}
+
+.prod p {
+    font-size: 1.5rem;
+}
+
+.divbuttonprod {
+    justify-content: center;
+}
+
+.buttomprod {
+    
+    background-color: #FFD6DC;
+    width: 10rem;
+    padding: 1rem;
+    border-radius: 18%;
+    margin-bottom: 2rem;
+}

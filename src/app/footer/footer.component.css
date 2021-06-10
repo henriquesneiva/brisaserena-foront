@@ -1,0 +1,25 @@
+footer {
+    background-color: #FFD6DC;
+    margin-top: 1rem;
+}
+
+.footerdesign {
+    display: flex;
+}
+
+.texto1 {
+    font-size: 1rem;
+    padding: 2rem;
+    width: 17rem;
+}
+
+.texto2 {
+    font-size: 1rem;
+    padding: 2rem;
+    width: 17rem;
+    margin-left: 30rem;
+}
+
+.iten-icon {
+    display: flex;
+}
